@@ -1,0 +1,18 @@
+{
+  "name": "atom-theme-toggle",
+  "main": "./lib/atom-theme-toggle",
+  "version": "0.1.0",
+  "description": "Simple package to toggle between a dark and light theme.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-theme-toggle:toggle"
+  },
+  "repository": "https://github.com/mariuskueng/atom-theme-toggle",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
